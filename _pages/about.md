@@ -14,8 +14,8 @@ permalink: /about/
 
 ## 프로그래밍 스킬
 
-'-' R
+`-` R
 
-'-' Python
+`-` Python
 
-'-' SPSS
+`-` SPSS
